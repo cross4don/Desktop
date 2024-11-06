@@ -1,0 +1,58 @@
+label {
+    display: block;
+    margin: 0.5rem 0;
+}
+
+body {
+    background-color: rgb(21, 59, 21);
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 16px;
+color: white;
+}
+
+fieldset {
+    background-color: rgb(rgb(82, 125, 190));
+    border: none;
+}
+
+.learn {
+    background-color: rgb(37, 59, 185);
+}
+
+form {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    }
+
+    input {
+        margin: 0;
+        width: auto;
+        height: auto;
+        margin-bottom: 0;
+    }
+
+    input [type="submit"] {
+        text-align: center;
+        display: block;
+        width: auto;
+        background-color: rgb(133, 14, 20);
+        margin: 0 auto;
+
+    }
+
+    a:hover {
+    color: red;
+    }
+
+
+    p {
+
+background-color: red;
+
+    }
+
+
+    
